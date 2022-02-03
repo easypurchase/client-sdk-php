@@ -1,6 +1,10 @@
-# Pingpp PHP SDK
+# EASYPURCHASE PHP Client SDK
 
 ## 简介
+EASYPURCHASE 认为ping++聚合支付提供的开源客户端SDK提供了支付微服务的基础支持，不必再重复造轮子。
+
+
+## 以下是原ping++文档
 
 lib 文件夹下是 PHP SDK 文件，  
 example 文件夹里面是简单的接入示例，该示例仅供参考。
